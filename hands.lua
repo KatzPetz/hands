@@ -9,3 +9,8 @@ hands.register_hand("hands:space", {
 hands.register_hand("hands:grey", {
   wield_image = "hands_grey.png",
 })
+
+-- [hand] round
+hands.register_hand("hands:round", {
+  wield_image = "hands_round.png",
+})
